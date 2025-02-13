@@ -5,4 +5,3 @@ GIt tracks Changes of file.
 tangweixiong 
 HULULU
 tangyulin
-AAA
